@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "nom": "Clair de femme",
+      "description": "Film de Romain Gary",
+      "prix": 12.67,
+      "categorie": "Cinema"
+    },
+    {
+      "nom": "Le joueur d'echecs",
+      "description": "Livre de Stefan Zweig",
+      "prix": 23.67,
+      "categorie": "Livre",
+      "id": 6
+    },
+    {
+      "nom": "Une trop bruyante solitude",
+      "description": "Livre de Bohumil Hrabal",
+      "prix": 45.67,
+      "categorie": "Livre",
+      "id": 7
+    },
+    {
+      "nom": "La confusion des sentiments",
+      "description": "Livre de Stefan Zweig",
+      "prix": 12.39,
+      "categorie": "Livre",
+      "id": 8
+    },
+    {
+      "nom": "Au delà de cette limite votre ticket n'est plus valable",
+      "description": "Livre de Romain Gary",
+      "prix": 34.76,
+      "categorie": "Livre",
+      "id": 9
+    },
+    {
+      "nom": "La promesse de l'aube",
+      "description": "Film de Romain Gary",
+      "prix": 34.98,
+      "categorie": "Film",
+      "id": 10
+    }
+  ]
+}
